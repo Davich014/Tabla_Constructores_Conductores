@@ -21,3 +21,7 @@ Este código crea una aplicación JavaFX que se conecta a una base de datos MySQ
 9.- Crear la escena y mostrar la tabla: Se crea una BorderPane como raíz de la escena y se coloca la TableView en el centro. Finalmente, se crea la escena, se establece en el Stage principal y se muestra la aplicación.
 
 10.-  Método main(): Este método es el punto de entrada de la aplicación y llama al método launch() para iniciar la ejecución de la aplicación.
+
+CAPRUTAS DEL CODIGO EJECUTADO 
+![image](https://github.com/user-attachments/assets/ae80cd1a-f27b-4e66-a422-f4e0b86e37ac)
+![image](https://github.com/user-attachments/assets/af3a3f8b-0312-412c-a54b-3c7f5dfce499)
