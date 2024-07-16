@@ -1,4 +1,5 @@
 Tabla_Constructores_Conductores
+
 Este código crea una aplicación JavaFX que se conecta a una base de datos MySQL, obtiene los datos de los constructores de Fórmula 1 y los muestra en una tabla interactiva.
 
 1.- Importaciones: Se importan las clases necesarias de JavaFX y Java.sql para trabajar con la interfaz gráfica y la conexión a la base de datos.
